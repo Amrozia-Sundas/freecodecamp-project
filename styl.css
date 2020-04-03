@@ -24,3 +24,13 @@ body{
     margin: 15px 0px 5px 0px;
     text-align: center;
   }
+  #tribute-info{
+    max-width:50%;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+    
+    #tribute-link{
+      text-align:center;
+    }
