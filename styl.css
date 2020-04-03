@@ -10,3 +10,13 @@ body{
   h3{
     text-align: center;
   }
+  #img-div{
+    background-color: white;
+  }
+  #img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  
+  }
